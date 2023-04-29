@@ -1,2 +1,1 @@
-# Tesseract
-Tesseract - four-dimensional analogue
+# Tesseract - four-dimensional analogue
