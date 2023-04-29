@@ -15,5 +15,3 @@
 
 #
 
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/113218619/235283345-b2df12c6-7939-419b-a5f3-2dbff17b8ae7.png" />
