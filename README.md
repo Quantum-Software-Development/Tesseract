@@ -1,4 +1,4 @@
-# Tesseract - four-dimensional analogue
+# <p align="center">  Tesseract - four-dimensional analogue </p>
 
 #
 
