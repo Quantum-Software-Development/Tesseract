@@ -19,7 +19,8 @@
  
  #
  
- ![Screen Shot 2023-04-28 at 16 44 19](https://user-images.githubusercontent.com/113218619/235334683-c2a2619c-e3c1-439f-82bc-7a66c970d367.png)
+ <p align="center"> 
+<img src="https://user-images.githubusercontent.com/113218619/235334683-c2a2619c-e3c1-439f-82bc-7a66c970d367.png" />
 
 
 
