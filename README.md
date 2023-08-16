@@ -20,7 +20,9 @@
 
 #
 
-MiT License
+⚖︎ This project is licensed under the MIT License.
+
+Copyright (c) 2023 Fabiana Campanari - All Rights Reserved
 
 
  
