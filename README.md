@@ -20,7 +20,6 @@
 
 #
 
-### Anything we need to know about quantum algorithms?
 
 <p align="center"> ⚖︎ This project is licensed under the MIT License.
 
