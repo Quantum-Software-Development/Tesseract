@@ -20,7 +20,6 @@
 
 #
 
-
 <p align="center"> ⚖︎ This project is licensed under the MIT License.
 
 <p align="center"> Copyright (c) 2023 Quantum Software Development - All Rights Reserved
