@@ -22,7 +22,7 @@
 
 ⚖︎ This project is licensed under the MIT License.
 
-Copyright (c) 2023 Fabiana Campanari - All Rights Reserved
+Copyright (c) 2023 Quantum Software Development - All Rights Reserved
 
 
  
