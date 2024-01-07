@@ -20,7 +20,7 @@
 
 #
 
- ### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
+ ### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Tesseract/blob/6b429d3539b048ee43670235c5b97fe918efda89/LICENSE)
 
 
  
