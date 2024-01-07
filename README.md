@@ -20,7 +20,7 @@
 
 #
 
- ### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Tesseract/blob/6b429d3539b048ee43670235c5b97fe918efda89/LICENSE)
+ ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Tesseract/blob/6b429d3539b048ee43670235c5b97fe918efda89/LICENSE)
 
 
  
