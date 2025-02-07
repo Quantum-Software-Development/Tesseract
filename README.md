@@ -30,6 +30,14 @@ The concept of higher dimensions plays a critical role in **quantum mechanics an
 - **Entanglement & Nonlocality**: Extra-dimensional spaces may offer explanations for quantum entanglement, where particles interact instantaneously across vast distances.
 - **String Theory & Extra Dimensions**: Theoretical physics suggests that additional dimensions (like the 4th spatial dimension) could be fundamental to the fabric of reality.
 
+  
+
+## Understand Dimensions and Oneness
+
+https://github.com/user-attachments/assets/79942968-79db-422a-861f-bba67db90a9a
+
+
+
 ## 🚀 Getting Started
 
 To start exploring the Tesseract and its relation to quantum physics:
