@@ -22,18 +22,17 @@ This repository provides:
 - Mathematical Algorithms: Methods for computing and understanding the properties of four-dimensional objects.
 - Quantum Physics Insights: How higher dimensions relate to quantum phenomena like entanglement, parallel universes, and extra-dimensional theories.
 
+<br>
+
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/113218619/235283209-286d481d-47f5-47e3-be81-c3ddab0cd93a.png"  />
 
 <p align="center"> 
  <img src="https://user-images.githubusercontent.com/113218619/235283420-3c655c06-0ec5-4792-ba85-b566d3af706f.png" />
 
-#
-<p align="center"> 
- <img src="https://user-images.githubusercontent.com/113218619/235283209-286d481d-47f5-47e3-be81-c3ddab0cd93a.png"  />
- 
-#
-
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/113218619/235283271-e9452b16-c298-4f3d-aa26-2a11fd0a9811.png" />
+ 
 
 <br>
 
