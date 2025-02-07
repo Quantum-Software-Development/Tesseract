@@ -1,4 +1,8 @@
-# <p align="center">  🧊 Tesseract - four-dimensional analogue </p>
+<br>
+
+# <p align="center">  🧊 Tesseract: A Gateway to Higher Dimensions and Quantum Physics
+
+ <br>
 
 
 <p align="center"> 
