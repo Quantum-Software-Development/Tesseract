@@ -22,17 +22,6 @@ This repository provides:
 - Mathematical Algorithms: Methods for computing and understanding the properties of four-dimensional objects.
 - Quantum Physics Insights: How higher dimensions relate to quantum phenomena like entanglement, parallel universes, and extra-dimensional theories.
 
-<br>
-
-<p align="center"> 
- <img src="https://user-images.githubusercontent.com/113218619/235283209-286d481d-47f5-47e3-be81-c3ddab0cd93a.png"  />
-
-<p align="center"> 
- <img src="https://user-images.githubusercontent.com/113218619/235283420-3c655c06-0ec5-4792-ba85-b566d3af706f.png" />
-
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/113218619/235283271-e9452b16-c298-4f3d-aa26-2a11fd0a9811.png" />
- 
 
 <br>
 
@@ -45,9 +34,42 @@ The concept of higher dimensions plays a critical role in quantum mechanics and 
 - Entanglement & Nonlocality: Extra-dimensional spaces may offer explanations for quantum entanglement, where particles interact instantaneously across vast distances.
   
 - String Theory & Extra Dimensions: Theoretical physics suggests that additional dimensions (like the 4th spatial dimension) could be fundamental to the fabric of reality.
- 
 
- ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Tesseract/blob/6b429d3539b048ee43670235c5b97fe918efda89/LICENSE)
+
+
+<br>
+
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/113218619/235283209-286d481d-47f5-47e3-be81-c3ddab0cd93a.png"  />
+
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/113218619/235283420-3c655c06-0ec5-4792-ba85-b566d3af706f.png" />
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/113218619/235283271-e9452b16-c298-4f3d-aa26-2a11fd0a9811.png" />
+   
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #
+
+ ###### <p align="center"> [Copyright 2025 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Tesseract/blob/6b429d3539b048ee43670235c5b97fe918efda89/LICENSE)
 
 
  
