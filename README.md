@@ -37,6 +37,9 @@ The concept of higher dimensions plays a critical role in quantum mechanics and 
 
 
 
+
+
+<!--
 <br>
 
 <p align="center"> 
@@ -48,10 +51,8 @@ The concept of higher dimensions plays a critical role in quantum mechanics and 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/113218619/235283271-e9452b16-c298-4f3d-aa26-2a11fd0a9811.png" />
    
-
-
 <br>
-
+-->
 
 
 
