@@ -95,6 +95,12 @@ ax.set_zlim([-2, 2])
 plt.show()
 ```
 
+<br>
+
+![Image](https://github.com/user-attachments/assets/ac4d29bf-b1f1-4930-a8d5-b7fe9eee88aa)
+
+<br>
+
 🌟 **Join us in exploring the mysteries of higher dimensions and their role in quantum reality!** 🚀
 
 
