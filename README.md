@@ -1,6 +1,14 @@
 <br><br><br>
 
 
+
+ <p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0">
+    <img src="https://github.com/user-attachments/assets/10d94faa-a41d-4137-a91c-0b5b414797d7" width="450" />
+  </a>
+</p>
+
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/10d94faa-a41d-4137-a91c-0b5b414797d7" />
 
