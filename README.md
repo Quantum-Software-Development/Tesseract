@@ -4,7 +4,7 @@
 
  <p align="center">
   <a href="https://github.com/user-attachments/assets/c64b3ca5-cdef-4c8b-b1b9-dd3b4a70d1e8" />
-    <img src="https://github.com/user-attachments/assets/10d94faa-a41d-4137-a91c-0b5b414797d7" width="450" />
+    <img src="https://github.com/user-attachments/assets/10d94faa-a41d-4137-a91c-0b5b414797d7" />
   </a>
 </p>
 
