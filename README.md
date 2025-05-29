@@ -1,5 +1,5 @@
-<br><br><br>
 
+<br><br><br>
 
 
  <p align="center">
@@ -8,9 +8,6 @@
   </a>
 </p>
 
-
- <p align="center">
-<img src="https://github.com/user-attachments/assets/10d94faa-a41d-4137-a91c-0b5b414797d7" />
 
 <br><br><br>
  
