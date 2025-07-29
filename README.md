@@ -33,6 +33,22 @@ This repository provides:
 - **Mathematical Algorithms**: Methods for computing and understanding the properties of four-dimensional objects.
 - **Quantum Physics Insights**: How higher dimensions relate to quantum phenomena like entanglement, parallel universes, and extra-dimensional theories.
 
+
+
+<br><br>
+
+
+### The [Torsion]():
+
+<br><br>
+
+
+https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+
+<br><br>
+
+
+
 ## 🔬 The Connection Between Tesseracts and Quantum Physics
 
 The concept of higher dimensions plays a critical role in **quantum mechanics and theoretical physics**. Some key connections include:
